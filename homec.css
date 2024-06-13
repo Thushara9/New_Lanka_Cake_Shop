@@ -1,0 +1,26 @@
+.c-item{
+    height:600px;
+
+}
+
+.c-img{
+    height:100% ;
+
+    object-fit: cover;
+    filter: brightness(0.6);
+
+
+}
+.h-item{
+    margin-top: 25%;
+    font-size: 56px;
+}
+.h-item2{
+    margin-top: 5%;
+    font-size: 56px;
+    margin-left: 60%;
+    text-align: left; 
+}
+.b-item{
+    margin-left: 60%;  
+}
